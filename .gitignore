@@ -1,0 +1,6 @@
+*.png
+dataset/
+trainer/
+known_faces.json
+.DS_Store
+.ipynb_checkpoints/
